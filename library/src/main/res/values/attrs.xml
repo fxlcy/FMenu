@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="FM_ItemBackground" format="color|reference" />
+    <attr name="FM_ItemTextColor" format="color" />
+    <attr name="FM_ItemTextSize" format="dimension" />
+    <attr name="FM_Background" format="color|reference" />
+    <attr name="FM_CanceledOnTouchOutside" format="boolean" />
+
+    <declare-styleable name="FMenuStyle">
+        <attr name="FM_ItemBackground" />
+        <attr name="FM_ItemTextColor" />
+        <attr name="FM_ItemTextSize" />
+        <attr name="FM_Background" />
+        <attr name="FM_CanceledOnTouchOutside" />
+    </declare-styleable>
+</resources>

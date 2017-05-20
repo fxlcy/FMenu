@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="cn.fxlcy.library.menu">
+
+    <application android:allowBackup="true"
+        android:supportsRtl="true">
+
+    </application>
+
+</manifest>
